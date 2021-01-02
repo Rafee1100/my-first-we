@@ -1,0 +1,25 @@
+body{
+    background-color:skyblue;
+}
+#form{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 40%;
+    height: 1000px;
+    display: relative;
+    border-radius: 6px;
+}
+#Logn{
+    text-align:center;
+}
+#form.cls{
+    background-color: slateblue;
+    width: 80%;
+    height: 5px;
+}
+.cls2{
+    background-color: steelblue;
+}
